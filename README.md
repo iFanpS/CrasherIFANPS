@@ -1,5 +1,6 @@
 # Information
 *> Crasher ini diremake oleh iFanpS#7650
+#
 *> (C) Clayne dan DrOreo
 
 # Testimony
