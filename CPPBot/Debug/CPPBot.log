@@ -1,0 +1,11 @@
+﻿  CPPBot.cpp
+C:\Users\GrowToAlim\Desktop\Crasher\Crasher\CPPBot\corefunc.h(868,15): warning C4101: 'e': unreferenced local variable
+C:\Users\GrowToAlim\Desktop\Crasher\Crasher\CPPBot\corefunc.h(1210,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\GrowToAlim\Desktop\Crasher\Crasher\CPPBot\corefunc.h(1308,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\GrowToAlim\Desktop\Crasher\Crasher\CPPBot\utilsfunc.h(178,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\GrowToAlim\Desktop\Crasher\Crasher\CPPBot\userfunc.h(228,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\GrowToAlim\Desktop\Crasher\Crasher\CPPBot\userfunc.h(229,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\GrowToAlim\Desktop\Crasher\Crasher\CPPBot\userfunc.h(367,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\GrowToAlim\Desktop\Crasher\Crasher\CPPBot\userfunc.h(386,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\GrowToAlim\Desktop\Crasher\Crasher\CPPBot\userfunc.h(486,20): warning C4018: '<': signed/unsigned mismatch
+  CPPBot.vcxproj -> C:\Users\GrowToAlim\Desktop\Crasher\Crasher\Debug\CPPBot.exe

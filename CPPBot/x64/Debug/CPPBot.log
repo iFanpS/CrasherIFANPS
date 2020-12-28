@@ -1,0 +1,26 @@
+﻿  pch.cpp
+  CPPBot.cpp
+C:\Users\RizkyJones\Downloads\Crasher\CPPBot\corefunc.h(745,1): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'int'
+C:\Users\RizkyJones\Downloads\Crasher\CPPBot\corefunc.h(745,1): warning C4302: 'type cast': truncation from 'BYTE *' to 'int'
+C:\Users\RizkyJones\Downloads\Crasher\CPPBot\corefunc.h(745,1): warning C4312: 'type cast': conversion from 'int' to 'BYTE *' of greater size
+C:\Users\RizkyJones\Downloads\Crasher\CPPBot\corefunc.h(837,15): warning C4101: 'e': unreferenced local variable
+C:\Users\RizkyJones\Downloads\Crasher\CPPBot\corefunc.h(1169,1): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\RizkyJones\Downloads\Crasher\CPPBot\corefunc.h(1179,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RizkyJones\Downloads\Crasher\CPPBot\corefunc.h(1277,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\RizkyJones\Downloads\Crasher\CPPBot\userfunc.h(229,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\RizkyJones\Downloads\Crasher\CPPBot\userfunc.h(230,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\RizkyJones\Downloads\Crasher\CPPBot\userfunc.h(418,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\RizkyJones\Downloads\Crasher\CPPBot\userfunc.h(419,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+CPPBot.obj : error LNK2019: unresolved external symbol enet_initialize referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+CPPBot.obj : error LNK2019: unresolved external symbol enet_deinitialize referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+CPPBot.obj : error LNK2019: unresolved external symbol enet_address_set_host referenced in function "public: void __cdecl GrowtopiaBot::connectClient(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int)" (?connectClient@GrowtopiaBot@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z)
+CPPBot.obj : error LNK2019: unresolved external symbol enet_packet_create referenced in function "public: void __cdecl GrowtopiaBot::SendPacket(int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct _ENetPeer *)" (?SendPacket@GrowtopiaBot@@QEAAXHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PEAU_ENetPeer@@@Z)
+CPPBot.obj : error LNK2019: unresolved external symbol enet_packet_destroy referenced in function "public: void __cdecl GrowtopiaBot::eventLoop(void)" (?eventLoop@GrowtopiaBot@@QEAAXXZ)
+CPPBot.obj : error LNK2019: unresolved external symbol enet_crc32 referenced in function "public: void __cdecl GrowtopiaBot::connectClient(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int)" (?connectClient@GrowtopiaBot@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z)
+CPPBot.obj : error LNK2019: unresolved external symbol enet_host_create referenced in function "public: void __cdecl GrowtopiaBot::connectClient(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int)" (?connectClient@GrowtopiaBot@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z)
+CPPBot.obj : error LNK2019: unresolved external symbol enet_host_connect referenced in function "public: void __cdecl GrowtopiaBot::connectClient(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int)" (?connectClient@GrowtopiaBot@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z)
+CPPBot.obj : error LNK2019: unresolved external symbol enet_host_service referenced in function "public: void __cdecl GrowtopiaBot::eventLoop(void)" (?eventLoop@GrowtopiaBot@@QEAAXXZ)
+CPPBot.obj : error LNK2019: unresolved external symbol enet_host_flush referenced in function "public: void __cdecl GrowtopiaBot::connectClient(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int)" (?connectClient@GrowtopiaBot@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z)
+CPPBot.obj : error LNK2019: unresolved external symbol enet_host_compress_with_range_coder referenced in function "public: void __cdecl GrowtopiaBot::connectClient(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int)" (?connectClient@GrowtopiaBot@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z)
+CPPBot.obj : error LNK2019: unresolved external symbol enet_peer_send referenced in function "public: void __cdecl GrowtopiaBot::SendPacket(int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct _ENetPeer *)" (?SendPacket@GrowtopiaBot@@QEAAXHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PEAU_ENetPeer@@@Z)
+C:\Users\RizkyJones\Downloads\Crasher\x64\Debug\CPPBot.exe : fatal error LNK1120: 12 unresolved externals

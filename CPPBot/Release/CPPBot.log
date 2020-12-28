@@ -1,0 +1,16 @@
+﻿  CPPBot.cpp
+C:\Users\iSteven\Desktop\Crasher\CPPBot\corefunc.h(867,15): warning C4101: 'e': unreferenced local variable
+C:\Users\iSteven\Desktop\Crasher\CPPBot\corefunc.h(1209,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\iSteven\Desktop\Crasher\CPPBot\corefunc.h(1307,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\iSteven\Desktop\Crasher\CPPBot\utilsfunc.h(178,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\iSteven\Desktop\Crasher\CPPBot\userfunc.h(226,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\iSteven\Desktop\Crasher\CPPBot\userfunc.h(227,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\iSteven\Desktop\Crasher\CPPBot\userfunc.h(365,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\iSteven\Desktop\Crasher\CPPBot\userfunc.h(384,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\iSteven\Desktop\Crasher\CPPBot\userfunc.h(484,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 1902 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CPPBot.vcxproj -> C:\Users\iSteven\Desktop\Crasher\Release\CPPBot.exe
